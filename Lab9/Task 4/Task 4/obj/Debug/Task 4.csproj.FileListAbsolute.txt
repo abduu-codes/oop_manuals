@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\oopl\OOP\Week 9\Task 4\Task 4\obj\Debug\Task 4.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\oopl\OOP\Week 9\Task 4\Task 4\obj\Debug\Task 4.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\oopl\OOP\Week 9\Task 4\Task 4\bin\Debug\Task 4.exe.config
+C:\Users\USER\Desktop\oopl\OOP\Week 9\Task 4\Task 4\bin\Debug\Task 4.exe
+C:\Users\USER\Desktop\oopl\OOP\Week 9\Task 4\Task 4\bin\Debug\Task 4.pdb
+C:\Users\USER\Desktop\oopl\OOP\Week 9\Task 4\Task 4\obj\Debug\Task 4.exe
+C:\Users\USER\Desktop\oopl\OOP\Week 9\Task 4\Task 4\obj\Debug\Task 4.pdb

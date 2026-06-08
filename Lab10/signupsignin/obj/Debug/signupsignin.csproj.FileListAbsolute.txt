@@ -1,0 +1,12 @@
+E:\oop\OOP_LABS\lab10\signupsignin\obj\Debug\signupsignin.csproj.AssemblyReference.cache
+E:\oop\OOP_LABS\lab10\signupsignin\obj\Debug\signupsignin.Form1.resources
+E:\oop\OOP_LABS\lab10\signupsignin\obj\Debug\signupsignin.Properties.Resources.resources
+E:\oop\OOP_LABS\lab10\signupsignin\obj\Debug\signupsignin.signin.resources
+E:\oop\OOP_LABS\lab10\signupsignin\obj\Debug\signupsignin.signupform.resources
+E:\oop\OOP_LABS\lab10\signupsignin\obj\Debug\signupsignin.csproj.GenerateResource.cache
+E:\oop\OOP_LABS\lab10\signupsignin\obj\Debug\signupsignin.csproj.CoreCompileInputs.cache
+E:\oop\OOP_LABS\lab10\signupsignin\bin\Debug\signupsignin.exe.config
+E:\oop\OOP_LABS\lab10\signupsignin\bin\Debug\signupsignin.exe
+E:\oop\OOP_LABS\lab10\signupsignin\bin\Debug\signupsignin.pdb
+E:\oop\OOP_LABS\lab10\signupsignin\obj\Debug\signupsignin.exe
+E:\oop\OOP_LABS\lab10\signupsignin\obj\Debug\signupsignin.pdb

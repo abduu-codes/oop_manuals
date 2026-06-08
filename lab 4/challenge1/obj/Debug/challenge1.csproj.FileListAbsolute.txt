@@ -1,0 +1,7 @@
+E:\oop\lab 4\challenge1\bin\Debug\challenge1.exe.config
+E:\oop\lab 4\challenge1\bin\Debug\challenge1.exe
+E:\oop\lab 4\challenge1\bin\Debug\challenge1.pdb
+E:\oop\lab 4\challenge1\obj\Debug\challenge1.csproj.AssemblyReference.cache
+E:\oop\lab 4\challenge1\obj\Debug\challenge1.csproj.CoreCompileInputs.cache
+E:\oop\lab 4\challenge1\obj\Debug\challenge1.exe
+E:\oop\lab 4\challenge1\obj\Debug\challenge1.pdb

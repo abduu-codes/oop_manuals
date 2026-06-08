@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\oop\\ooplab2\\lab5\\challenge1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AECA92A1-AF90-4932-809C-78A744F6314C}|challenge1.csproj|e:\\oop\\ooplab2\\lab5\\challenge1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECA92A1-AF90-4932-809C-78A744F6314C}|challenge1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECA92A1-AF90-4932-809C-78A744F6314C}|challenge1.csproj|E:\\oop\\ooplab2\\lab5\\challenge1\\mypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECA92A1-AF90-4932-809C-78A744F6314C}|challenge1.csproj|solutionrelative:mypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECA92A1-AF90-4932-809C-78A744F6314C}|challenge1.csproj|E:\\oop\\ooplab2\\lab5\\challenge1\\lineui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECA92A1-AF90-4932-809C-78A744F6314C}|challenge1.csproj|solutionrelative:lineui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECA92A1-AF90-4932-809C-78A744F6314C}|challenge1.csproj|E:\\oop\\ooplab2\\lab5\\challenge1\\myline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECA92A1-AF90-4932-809C-78A744F6314C}|challenge1.csproj|solutionrelative:myline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyLine.cs",
+              "DocumentMoniker": "E:\\oop\\ooplab2\\lab5\\challenge1\\MyLine.cs",
+              "RelativeDocumentMoniker": "MyLine.cs",
+              "ToolTip": "E:\\oop\\ooplab2\\lab5\\challenge1\\MyLine.cs",
+              "RelativeToolTip": "MyLine.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T07:54:01.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyPoint.cs",
+              "DocumentMoniker": "E:\\oop\\ooplab2\\lab5\\challenge1\\MyPoint.cs",
+              "RelativeDocumentMoniker": "MyPoint.cs",
+              "ToolTip": "E:\\oop\\ooplab2\\lab5\\challenge1\\MyPoint.cs",
+              "RelativeToolTip": "MyPoint.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T07:52:25.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LineUI.cs",
+              "DocumentMoniker": "E:\\oop\\ooplab2\\lab5\\challenge1\\LineUI.cs",
+              "RelativeDocumentMoniker": "LineUI.cs",
+              "ToolTip": "E:\\oop\\ooplab2\\lab5\\challenge1\\LineUI.cs",
+              "RelativeToolTip": "LineUI.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwCUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T08:05:27.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\oop\\ooplab2\\lab5\\challenge1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\oop\\ooplab2\\lab5\\challenge1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T07:48:06.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

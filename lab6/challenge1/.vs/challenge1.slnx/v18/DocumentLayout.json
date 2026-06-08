@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\oop\\ooplab2\\lab6\\challenge1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78D618A2-0110-4708-A9FA-496496BDD6B8}|challenge1.csproj|E:\\oop\\ooplab2\\lab6\\challenge1\\libraryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D618A2-0110-4708-A9FA-496496BDD6B8}|challenge1.csproj|solutionrelative:libraryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D618A2-0110-4708-A9FA-496496BDD6B8}|challenge1.csproj|e:\\oop\\ooplab2\\lab6\\challenge1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D618A2-0110-4708-A9FA-496496BDD6B8}|challenge1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D618A2-0110-4708-A9FA-496496BDD6B8}|challenge1.csproj|E:\\oop\\ooplab2\\lab6\\challenge1\\bookdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D618A2-0110-4708-A9FA-496496BDD6B8}|challenge1.csproj|solutionrelative:bookdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D618A2-0110-4708-A9FA-496496BDD6B8}|challenge1.csproj|E:\\oop\\ooplab2\\lab6\\challenge1\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D618A2-0110-4708-A9FA-496496BDD6B8}|challenge1.csproj|solutionrelative:author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D618A2-0110-4708-A9FA-496496BDD6B8}|challenge1.csproj|E:\\oop\\ooplab2\\lab6\\challenge1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D618A2-0110-4708-A9FA-496496BDD6B8}|challenge1.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryUI.cs",
+              "DocumentMoniker": "E:\\oop\\ooplab2\\lab6\\challenge1\\LibraryUI.cs",
+              "RelativeDocumentMoniker": "LibraryUI.cs",
+              "ToolTip": "E:\\oop\\ooplab2\\lab6\\challenge1\\LibraryUI.cs",
+              "RelativeToolTip": "LibraryUI.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T09:01:29.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookDL.cs",
+              "DocumentMoniker": "E:\\oop\\ooplab2\\lab6\\challenge1\\BookDL.cs",
+              "RelativeDocumentMoniker": "BookDL.cs",
+              "ToolTip": "E:\\oop\\ooplab2\\lab6\\challenge1\\BookDL.cs",
+              "RelativeToolTip": "BookDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T09:00:55.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\oop\\ooplab2\\lab6\\challenge1\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "E:\\oop\\ooplab2\\lab6\\challenge1\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T08:59:23.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Author.cs",
+              "DocumentMoniker": "E:\\oop\\ooplab2\\lab6\\challenge1\\Author.cs",
+              "RelativeDocumentMoniker": "Author.cs",
+              "ToolTip": "E:\\oop\\ooplab2\\lab6\\challenge1\\Author.cs",
+              "RelativeToolTip": "Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T08:58:28.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\oop\\ooplab2\\lab6\\challenge1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\oop\\ooplab2\\lab6\\challenge1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T17:23:29.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

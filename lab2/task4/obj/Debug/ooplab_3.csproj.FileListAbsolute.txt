@@ -1,0 +1,7 @@
+E:\oop\ooplab3\ooplab_3\bin\Debug\ooplab_3.exe.config
+E:\oop\ooplab3\ooplab_3\bin\Debug\ooplab_3.exe
+E:\oop\ooplab3\ooplab_3\bin\Debug\ooplab_3.pdb
+E:\oop\ooplab3\ooplab_3\obj\Debug\ooplab_3.csproj.AssemblyReference.cache
+E:\oop\ooplab3\ooplab_3\obj\Debug\ooplab_3.csproj.CoreCompileInputs.cache
+E:\oop\ooplab3\ooplab_3\obj\Debug\ooplab_3.exe
+E:\oop\ooplab3\ooplab_3\obj\Debug\ooplab_3.pdb

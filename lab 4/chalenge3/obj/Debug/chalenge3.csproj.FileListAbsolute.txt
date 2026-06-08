@@ -1,0 +1,7 @@
+E:\oop\lab 4\chalenge3\bin\Debug\chalenge3.exe.config
+E:\oop\lab 4\chalenge3\bin\Debug\chalenge3.exe
+E:\oop\lab 4\chalenge3\bin\Debug\chalenge3.pdb
+E:\oop\lab 4\chalenge3\obj\Debug\chalenge3.csproj.AssemblyReference.cache
+E:\oop\lab 4\chalenge3\obj\Debug\chalenge3.csproj.CoreCompileInputs.cache
+E:\oop\lab 4\chalenge3\obj\Debug\chalenge3.exe
+E:\oop\lab 4\chalenge3\obj\Debug\chalenge3.pdb

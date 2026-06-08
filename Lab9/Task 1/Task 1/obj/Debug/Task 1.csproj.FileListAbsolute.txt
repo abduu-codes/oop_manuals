@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\oopl\OOP\Week 9\Task 1\Task 1\bin\Debug\Task 1.exe.config
+C:\Users\USER\Desktop\oopl\OOP\Week 9\Task 1\Task 1\bin\Debug\Task 1.exe
+C:\Users\USER\Desktop\oopl\OOP\Week 9\Task 1\Task 1\bin\Debug\Task 1.pdb
+C:\Users\USER\Desktop\oopl\OOP\Week 9\Task 1\Task 1\obj\Debug\Task 1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\oopl\OOP\Week 9\Task 1\Task 1\obj\Debug\Task 1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\oopl\OOP\Week 9\Task 1\Task 1\obj\Debug\Task 1.exe
+C:\Users\USER\Desktop\oopl\OOP\Week 9\Task 1\Task 1\obj\Debug\Task 1.pdb
+E:\oop\lab9\Task 1\Task 1\bin\Debug\Task 1.exe.config
+E:\oop\lab9\Task 1\Task 1\bin\Debug\Task 1.exe
+E:\oop\lab9\Task 1\Task 1\bin\Debug\Task 1.pdb
+E:\oop\lab9\Task 1\Task 1\obj\Debug\Task 1.csproj.AssemblyReference.cache
+E:\oop\lab9\Task 1\Task 1\obj\Debug\Task 1.csproj.CoreCompileInputs.cache
+E:\oop\lab9\Task 1\Task 1\obj\Debug\Task 1.exe
+E:\oop\lab9\Task 1\Task 1\obj\Debug\Task 1.pdb

@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\oop\\ooplab2\\lab5\\challenge2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9442FF-33DD-4428-A5EC-2390D12F0513}|challenge2.csproj|E:\\oop\\ooplab2\\lab5\\challenge2\\muserdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9442FF-33DD-4428-A5EC-2390D12F0513}|challenge2.csproj|solutionrelative:muserdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9442FF-33DD-4428-A5EC-2390D12F0513}|challenge2.csproj|E:\\oop\\ooplab2\\lab5\\challenge2\\menuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9442FF-33DD-4428-A5EC-2390D12F0513}|challenge2.csproj|solutionrelative:menuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9442FF-33DD-4428-A5EC-2390D12F0513}|challenge2.csproj|E:\\oop\\ooplab2\\lab5\\challenge2\\muser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9442FF-33DD-4428-A5EC-2390D12F0513}|challenge2.csproj|solutionrelative:muser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9442FF-33DD-4428-A5EC-2390D12F0513}|challenge2.csproj|e:\\oop\\ooplab2\\lab5\\challenge2\\systemui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9442FF-33DD-4428-A5EC-2390D12F0513}|challenge2.csproj|solutionrelative:systemui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9442FF-33DD-4428-A5EC-2390D12F0513}|challenge2.csproj|E:\\oop\\ooplab2\\lab5\\challenge2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9442FF-33DD-4428-A5EC-2390D12F0513}|challenge2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9442FF-33DD-4428-A5EC-2390D12F0513}|challenge2.csproj|E:\\oop\\ooplab2\\lab5\\challenge2\\productdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9442FF-33DD-4428-A5EC-2390D12F0513}|challenge2.csproj|solutionrelative:productdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9442FF-33DD-4428-A5EC-2390D12F0513}|challenge2.csproj|E:\\oop\\ooplab2\\lab5\\challenge2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9442FF-33DD-4428-A5EC-2390D12F0513}|challenge2.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9442FF-33DD-4428-A5EC-2390D12F0513}|challenge2.csproj|E:\\oop\\ooplab2\\lab5\\challenge2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9442FF-33DD-4428-A5EC-2390D12F0513}|challenge2.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SystemUI.cs",
+              "DocumentMoniker": "E:\\oop\\ooplab2\\lab5\\challenge2\\SystemUI.cs",
+              "RelativeDocumentMoniker": "SystemUI.cs",
+              "ToolTip": "E:\\oop\\ooplab2\\lab5\\challenge2\\SystemUI.cs",
+              "RelativeToolTip": "SystemUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T12:47:36.988Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuUI.cs",
+              "DocumentMoniker": "E:\\oop\\ooplab2\\lab5\\challenge2\\MenuUI.cs",
+              "RelativeDocumentMoniker": "MenuUI.cs",
+              "ToolTip": "E:\\oop\\ooplab2\\lab5\\challenge2\\MenuUI.cs",
+              "RelativeToolTip": "MenuUI.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T12:46:50.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MUserDL.cs",
+              "DocumentMoniker": "E:\\oop\\ooplab2\\lab5\\challenge2\\MUserDL.cs",
+              "RelativeDocumentMoniker": "MUserDL.cs",
+              "ToolTip": "E:\\oop\\ooplab2\\lab5\\challenge2\\MUserDL.cs",
+              "RelativeToolTip": "MUserDL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T12:44:21.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\oop\\ooplab2\\lab5\\challenge2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\oop\\ooplab2\\lab5\\challenge2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T11:42:35.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDL.cs",
+              "DocumentMoniker": "E:\\oop\\ooplab2\\lab5\\challenge2\\ProductDL.cs",
+              "RelativeDocumentMoniker": "ProductDL.cs",
+              "ToolTip": "E:\\oop\\ooplab2\\lab5\\challenge2\\ProductDL.cs",
+              "RelativeToolTip": "ProductDL.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T12:42:04.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\oop\\ooplab2\\lab5\\challenge2\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "E:\\oop\\ooplab2\\lab5\\challenge2\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T12:40:09.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\oop\\ooplab2\\lab5\\challenge2\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "E:\\oop\\ooplab2\\lab5\\challenge2\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T12:38:32.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MUser.cs",
+              "DocumentMoniker": "E:\\oop\\ooplab2\\lab5\\challenge2\\MUser.cs",
+              "RelativeDocumentMoniker": "MUser.cs",
+              "ToolTip": "E:\\oop\\ooplab2\\lab5\\challenge2\\MUser.cs",
+              "RelativeToolTip": "MUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T12:39:32.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

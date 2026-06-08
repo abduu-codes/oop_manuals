@@ -1,0 +1,10 @@
+E:\oop\OOP_LABS\lab10\task1\bin\Debug\task1.exe.config
+E:\oop\OOP_LABS\lab10\task1\bin\Debug\task1.exe
+E:\oop\OOP_LABS\lab10\task1\bin\Debug\task1.pdb
+E:\oop\OOP_LABS\lab10\task1\obj\Debug\task1.csproj.AssemblyReference.cache
+E:\oop\OOP_LABS\lab10\task1\obj\Debug\task1.Form1.resources
+E:\oop\OOP_LABS\lab10\task1\obj\Debug\task1.Properties.Resources.resources
+E:\oop\OOP_LABS\lab10\task1\obj\Debug\task1.csproj.GenerateResource.cache
+E:\oop\OOP_LABS\lab10\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+E:\oop\OOP_LABS\lab10\task1\obj\Debug\task1.exe
+E:\oop\OOP_LABS\lab10\task1\obj\Debug\task1.pdb

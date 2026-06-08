@@ -1,0 +1,14 @@
+E:\oop\lab3\task4\bin\Debug\task4.exe.config
+E:\oop\lab3\task4\bin\Debug\task4.exe
+E:\oop\lab3\task4\bin\Debug\task4.pdb
+E:\oop\lab3\task4\obj\Debug\task4.csproj.AssemblyReference.cache
+E:\oop\lab3\task4\obj\Debug\task4.csproj.CoreCompileInputs.cache
+E:\oop\lab3\task4\obj\Debug\task4.exe
+E:\oop\lab3\task4\obj\Debug\task4.pdb
+E:\oop\ooplab2\lab3\task4\bin\Debug\task4.exe.config
+E:\oop\ooplab2\lab3\task4\bin\Debug\task4.exe
+E:\oop\ooplab2\lab3\task4\bin\Debug\task4.pdb
+E:\oop\ooplab2\lab3\task4\obj\Debug\task4.csproj.AssemblyReference.cache
+E:\oop\ooplab2\lab3\task4\obj\Debug\task4.csproj.CoreCompileInputs.cache
+E:\oop\ooplab2\lab3\task4\obj\Debug\task4.exe
+E:\oop\ooplab2\lab3\task4\obj\Debug\task4.pdb

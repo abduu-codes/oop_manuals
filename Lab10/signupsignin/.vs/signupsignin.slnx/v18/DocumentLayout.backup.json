@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\oop\\OOP_LABS\\lab10\\signupsignin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB872433-035C-46DF-B719-BD1A363AFCE4}|signupsignin.csproj|E:\\oop\\OOP_LABS\\lab10\\signupsignin\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB872433-035C-46DF-B719-BD1A363AFCE4}|signupsignin.csproj|solutionrelative:signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB872433-035C-46DF-B719-BD1A363AFCE4}|signupsignin.csproj|e:\\oop\\oop_labs\\lab10\\signupsignin\\muserdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB872433-035C-46DF-B719-BD1A363AFCE4}|signupsignin.csproj|solutionrelative:muserdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB872433-035C-46DF-B719-BD1A363AFCE4}|signupsignin.csproj|E:\\oop\\OOP_LABS\\lab10\\signupsignin\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB872433-035C-46DF-B719-BD1A363AFCE4}|signupsignin.csproj|solutionrelative:signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB872433-035C-46DF-B719-BD1A363AFCE4}|signupsignin.csproj|E:\\oop\\OOP_LABS\\lab10\\signupsignin\\muser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB872433-035C-46DF-B719-BD1A363AFCE4}|signupsignin.csproj|solutionrelative:muser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB872433-035C-46DF-B719-BD1A363AFCE4}|signupsignin.csproj|E:\\oop\\OOP_LABS\\lab10\\signupsignin\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB872433-035C-46DF-B719-BD1A363AFCE4}|signupsignin.csproj|solutionrelative:signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB872433-035C-46DF-B719-BD1A363AFCE4}|signupsignin.csproj|E:\\oop\\OOP_LABS\\lab10\\signupsignin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB872433-035C-46DF-B719-BD1A363AFCE4}|signupsignin.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB872433-035C-46DF-B719-BD1A363AFCE4}|signupsignin.csproj|E:\\oop\\OOP_LABS\\lab10\\signupsignin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB872433-035C-46DF-B719-BD1A363AFCE4}|signupsignin.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "signin.cs",
+              "DocumentMoniker": "E:\\oop\\OOP_LABS\\lab10\\signupsignin\\signin.cs",
+              "RelativeDocumentMoniker": "signin.cs",
+              "ToolTip": "E:\\oop\\OOP_LABS\\lab10\\signupsignin\\signin.cs",
+              "RelativeToolTip": "signin.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T15:35:41.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MUser.cs",
+              "DocumentMoniker": "E:\\oop\\OOP_LABS\\lab10\\signupsignin\\MUser.cs",
+              "RelativeDocumentMoniker": "MUser.cs",
+              "ToolTip": "E:\\oop\\OOP_LABS\\lab10\\signupsignin\\MUser.cs",
+              "RelativeToolTip": "MUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T15:12:16.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MUserDL.cs",
+              "DocumentMoniker": "E:\\oop\\OOP_LABS\\lab10\\signupsignin\\MUserDL.cs",
+              "RelativeDocumentMoniker": "MUserDL.cs",
+              "ToolTip": "E:\\oop\\OOP_LABS\\lab10\\signupsignin\\MUserDL.cs",
+              "RelativeToolTip": "MUserDL.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T15:12:37.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "signupform.cs",
+              "DocumentMoniker": "E:\\oop\\OOP_LABS\\lab10\\signupsignin\\signupform.cs",
+              "RelativeDocumentMoniker": "signupform.cs",
+              "ToolTip": "E:\\oop\\OOP_LABS\\lab10\\signupsignin\\signupform.cs*",
+              "RelativeToolTip": "signupform.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T15:23:55.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "signupform.cs [Design]",
+              "DocumentMoniker": "E:\\oop\\OOP_LABS\\lab10\\signupsignin\\signupform.cs",
+              "RelativeDocumentMoniker": "signupform.cs",
+              "ToolTip": "E:\\oop\\OOP_LABS\\lab10\\signupsignin\\signupform.cs [Design]*",
+              "RelativeToolTip": "signupform.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T15:22:35.73Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\oop\\OOP_LABS\\lab10\\signupsignin\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\oop\\OOP_LABS\\lab10\\signupsignin\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAWwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T15:13:39.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\oop\\OOP_LABS\\lab10\\signupsignin\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\oop\\OOP_LABS\\lab10\\signupsignin\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T15:11:45.892Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

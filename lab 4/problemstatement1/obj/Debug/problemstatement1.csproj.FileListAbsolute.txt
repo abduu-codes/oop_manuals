@@ -1,0 +1,7 @@
+E:\oop\lab 4\problemstatement1\bin\Debug\problemstatement1.exe.config
+E:\oop\lab 4\problemstatement1\bin\Debug\problemstatement1.exe
+E:\oop\lab 4\problemstatement1\bin\Debug\problemstatement1.pdb
+E:\oop\lab 4\problemstatement1\obj\Debug\problemstatement1.csproj.AssemblyReference.cache
+E:\oop\lab 4\problemstatement1\obj\Debug\problemstatement1.csproj.CoreCompileInputs.cache
+E:\oop\lab 4\problemstatement1\obj\Debug\problemstatement1.exe
+E:\oop\lab 4\problemstatement1\obj\Debug\problemstatement1.pdb
