@@ -1,4 +1,4 @@
-# 📚 OOP Lab Manuals — C#
+# 📚 OOP Lab Manuals — C# Muhammad Abdullah (2025-GA-63)
 
 A collection of Object-Oriented Programming lab tasks completed as part of the **BS Computer Science (Gaming & Animation)** program at **UET (University of Engineering and Technology)**.
 
